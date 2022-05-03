@@ -5,7 +5,7 @@ This assignment was done in collaboration with Kerri-ann Cooper as part of a gro
 
 Brief: Based on your chosen project scenario, your task is to follow and document the user experience design process of an application or website and implement an interface derived from this process using web technologies.
 
-Hospitality digital ordering An existing restaurant/cafe or bar want to improve customer engagement and sales of some of their more unique offerings by providing table ordering via digital devices. Customers will be able to use touch screens at their table or booth, tablet type devices mounted at the bar or on phones anywhere in the venue. They require a system that enables customers to easily order and see the progress of their order, view deals and make suggestions.
+"An existing restaurant/cafe or bar want to improve customer engagement and sales of some of their more unique offerings by providing table ordering via digital devices. Customers will be able to use touch screens at their table or booth, tablet type devices mounted at the bar or on phones anywhere in the venue. They require a system that enables customers to easily order and see the progress of their order, view deals and make suggestions."
 
 Tasks: Document the planning stages in the UX process.
 
